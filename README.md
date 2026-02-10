@@ -1,32 +1,29 @@
-# 🚀 Sistema de Clasificación: Satisfacción y Segmentación en E-commerce
+# 🚀 Gobernanza de Portafolios: Analítica Avanzada aplicada a Estándares PMI
 
-Este repositorio contiene el **Proyecto Final** desarrollado para el **Bootcamp de IA, Machine Learning y Analítica Avanzada** (Cymetria - Emertech - CCB).
+Este repositorio contiene el framework de **Gobernanza Predictiva** diseñado para automatizar el control de proyectos de alta complejidad, integrando scripts de Python con las métricas de **Gestión de Valor Ganado (EVM)**.
 
-## 📊 Dashboard de Gobernanza y Resultados (Pág. 11)
-![Dashboard de Clasificación y Segmentación](https://raw.githubusercontent.com/emiliopalacinPMP/ecommerce-clasificacion-clientes/main/dashboard_preview.png)
+## 📊 Radar de Portafolio: Diagnóstico vs. Autopsia
+![Radar de Gobernanza](https://raw.githubusercontent.com/emiliopalacinPMP/Gobernanza-Portafolios/main/dashboard_gobernanza.png)
 
-> **[👉 Haga clic aquí para ver el Informe Final Completo (PDF)](https://github.com/emiliopalacinPMP/ecommerce-clasificacion-clientes/blob/main/Dashboard%20Sistema%20de%20Clasificacion.pdf)**
-
----
+> **Nota:** La visualización superior permite identificar en milisegundos qué frentes de trabajo requieren intervención inmediata basándose en su desempeño de costo ($CPI$) y cronograma ($SPI$).
 
 ## 📋 Resumen del Proyecto
-El sistema integra modelos de **NLP** y **Aprendizaje No Supervisado** para transformar el feedback masivo de e-commerce en activos estratégicos. La imagen superior detalla la segmentación por clusters y la salud de la marca (NPS).
+El sistema procesa simultáneamente múltiples frentes de trabajo, eliminando la carga operativa del reporte manual y transformando datos dispersos en indicadores estratégicos para la toma de decisiones de nivel C-Suite.
 
 ## 🛠️ Capacidades Técnicas Implementadas
-* **Segmentación Estratégica:** Algoritmo **K-Means** para identificación de clusters de alta rentabilidad (Cluster 1: 40-70 años, ticket alto).
-* **Análisis de Sentimiento (NLP):** Procesamiento de reseñas para la predicción de satisfacción.
-* **Gobernanza de Datos:** Dashboard en **Power BI** con indicadores de desempeño en tiempo real.
+* **Automatización EVM:** Procesamiento algorítmico de métricas de desempeño ($PV, EV, AC$).
+* **Análisis de Desviación:** Identificación de proyectos en crisis mediante lógica de control estadístico (umbrales < 0.9).
+* **Proyección Predictiva:** Cálculo automatizado de la **Variación a la Conclusión (VAC)** para anticipar impactos financieros.
+* **Simulación de Escenarios:** Comparativa técnica entre portafolios estables vs. portafolios con desviaciones críticas.
 
-## 📊 Resultados Clave
-* **Salud de Marca:** NPS proyectado del **69.03%**.
-* **Satisfacción Global:** Calificación de **3.59/5.0**.
-* **Eficiencia:** Automatización del análisis de texto no estructurado.
+## 📈 Impacto en la Dirección de Proyectos
+* **Eficiencia:** Reducción drástica en el tiempo de tabulación de informes de desempeño.
+* **Gobernanza Proactiva:** Transición de reportes históricos a diagnósticos preventivos.
+* **Alineación Estratégica:** Permite al **PMP®** enfocarse en la gestión de la intervención y no en la carpintería de datos.
 
-## 👥 Colaboradores (Grupo 4)
-* **Emilio Palacín Gómez** - *Project Management & Data Analytics*
-* **Oscar Espinoza** | **Javier Ballén** | **José Navarro**
-
-**Mentor:** Ing. Carlos Rafhael Satizabal Sánchez
+## 👤 Autor
+* **Emilio Palacín Gómez** - *Project Management Professional (PMP)® & Data Analytics*
+* **GitHub:** [emiliopalacinPMP](https://github.com/emiliopalacinPMP)
 
 ---
-*Este proyecto representa la convergencia entre los estándares de gestión PMI y la Ciencia de Datos Avanzada.*
+*Este repositorio es parte de la serie técnica sobre la integración de IA y Analítica en la Gestión de Proyectos bajo estándares del PMI.*
