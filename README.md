@@ -2,11 +2,6 @@
 
 Este repositorio contiene el framework de **Gobernanza Predictiva** diseñado para automatizar el control de proyectos de alta complejidad, integrando scripts de Python con las métricas de **Gestión de Valor Ganado (EVM)**.
 
-## 📊 Radar de Portafolio: Diagnóstico vs. Autopsia
-![Radar de Gobernanza]
-
-> **Nota:** La visualización superior permite identificar en milisegundos qué frentes de trabajo requieren intervención inmediata basándose en su desempeño de costo ($CPI$) y cronograma ($SPI$).
-
 ## 📋 Resumen del Proyecto
 El sistema procesa simultáneamente múltiples frentes de trabajo, eliminando la carga operativa del reporte manual y transformando datos dispersos en indicadores estratégicos para la toma de decisiones de nivel C-Suite.
 
@@ -28,4 +23,5 @@ El sistema procesa simultáneamente múltiples frentes de trabajo, eliminando la
 ---
 
 *Este repositorio es parte de la serie técnica sobre la integración de IA y Analítica en la Gestión de Proyectos bajo estándares del PMI.*
+
 
